@@ -1,0 +1,21 @@
+
+@import './base/settings';
+@import './base/_base.scss';
+@import './components/button';
+@import './components/container';
+@import './components/widget';
+@import './components/option.scss';
+@import './components/add-option';
+@import './components/header';
+@import './components/model';
+
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    
+    box-sizing: border-box;
+    
+}
